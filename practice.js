@@ -106,7 +106,7 @@ function add(x, y){
 //Now invoke add, passing in the numbers 3 and 4
 //storing the result in the variable mathSum.
 
-add(3,4)
+let mathSum = add(3,4)
 
 //////////////////PROBLEM 12////////////////////
 
